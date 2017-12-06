@@ -5,10 +5,9 @@
 
 body {
   font-family: "Open Sans", Arial;
-  background-image: url("background.jpeg");
-  background-attachment: fixed;
+  //background: url("background.jpeg") fixed;
   background-size:cover;
-  color: white;
+  background-color: #d3d4cc;
 }
 main {
   background: #EEE;
@@ -51,6 +50,7 @@ p {
   border-radius: 15px; /* Rounded corners */
   margin: 5px auto;
   color: black;
+  border-bottom: #3dff33;
 }
 
 .ResTitle:hover{
